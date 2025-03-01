@@ -1,0 +1,35 @@
+body,
+.root,
+#root {
+  --text-primary: #22224f;
+  --text-high-em: #110C22;
+  --text-med-em: #676472;
+  --text-low-em: #B3B1B8;
+  --icon-high-em: #4F4B5C;
+  --icon-med-em: #8D8A95;
+  --icon-low-em: #C6C5CA;
+  --icon-disabled: #D9D8DC;
+  --system-error-500: #F03D3D;
+  --tc-outlines-med: #ECECED;
+  --tc-text-primary-bold: #22224f;
+  --text-info: #0084FF;
+  --tc-system-info-50: #E9F4FF;
+  --tc-system-error-50: #FFF1F1;
+  --hr-surface-info: #0084FF;
+  --tc-primary-p-400: #22224f;
+  --shadow-e-02: 0px 2px 4px -2px rgba(17, 12, 34, 0.12);
+  --shadow-pressed-primary: 0px 0px 0px 4px #E2DCFF, 0px 2px 4px 0px rgba(17, 12, 34, 0.12);
+  --shadow-pressed-gray: 0px 0px 0px 4px #ECECED, 0px 2px 4px 0px rgba(17, 12, 34, 0.12);
+  --shadow-pressed-info: 0px 0px 0px 4px #C2E2FF, 0px 2px 4px 0px rgba(17, 12, 34, 0.12);
+  --tc-primary-p-50: #F1EEFF;
+  --tc-primary-p-75: #E2DCFF;
+  --tc-gray-g-75: #ECECED;
+  --tc-gray-g-25: #F8F8F8;
+  --tc-system-info-75: #C2E2FF;
+  --tc-system-info-25: #F5FAFF;
+  --tc-system-info-400: #1C92FF;
+  --tc-system-success-300: #4DCC8F;
+  --tc-surface-high: #ECECED;
+  --tc-gray-g-200: #D9D8DC;
+  --hr-surface-low: #F8F8F8;
+}

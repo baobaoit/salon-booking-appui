@@ -1,0 +1,39 @@
+export const ICLevel: React.FC = () => {
+  return (
+    <svg
+      width="25"
+      height="25"
+      viewBox="0 0 25 25"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect
+        x="18.5"
+        y="2.5"
+        width="4"
+        height="20"
+        rx="2"
+        stroke="#7357FF"
+        strokeWidth="2"
+      />
+      <rect
+        x="10.5"
+        y="9.5"
+        width="4"
+        height="13"
+        rx="2"
+        stroke="#7357FF"
+        strokeWidth="2"
+      />
+      <rect
+        x="2.5"
+        y="14.5"
+        width="4"
+        height="8"
+        rx="2"
+        stroke="#7357FF"
+        strokeWidth="2"
+      />
+    </svg>
+  );
+};
